@@ -13,19 +13,17 @@ import java.io.OutputStream;
 @WebServlet("/images/download")
 public class DownloadServlet extends HttpServlet {
     private final int ARBITARY_SIZE = 1048;
-
     @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String fileName = request.getParameter("file");
-        if (fileName == null || fileName.equals("")) {
+        if(fileName == null || fileName.equals("")){
             throw new ServletException("File name can't be null or empty");
         }
         response.setContentType("text/plain");
         response.setHeader("Content-disposition", "attachment;");
 
-        try (InputStream in = request.getServletContext().getResourceAsStream("/WEB-INF/files/" + fileName);
-                OutputStream out = response.getOutputStream()) {
+        try(InputStream in = request.getServletContext().getResourceAsStream("/WEB-INF/files/" + fileName);
+            OutputStream out = response.getOutputStream()) {
 
             byte[] buffer = new byte[ARBITARY_SIZE];
 
