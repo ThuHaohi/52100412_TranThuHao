@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ae0e7d-735e-4f24-85c3-d27dfb837256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lab6/Exercise1/mvn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/Exercise1/src/main/java/vn/edu/tdtu/javatech/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/Exercise1/src/main/java/vn/edu/tdtu/javatech/Excercise1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/Lab6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/Exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/mvn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/src/main/java/vn/edu/tdtu/javatech/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/src/main/java/vn/edu/tdtu/javatech/Excercise1/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Exercise1/src/main/resource/appConfig.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/haro/Java Technology/52100412_TranThuHao/Lab7/Lab7",
+    "last_opened_file_path": "D:/haro/Java Technology/52100412_TranThuHao/Lab6",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -48,6 +61,7 @@
       <workItem from="1699630811250" duration="120000" />
       <workItem from="1699631106812" duration="157000" />
       <workItem from="1699631818582" duration="310000" />
+      <workItem from="1699633887508" duration="14000" />
     </task>
     <servers />
   </component>
