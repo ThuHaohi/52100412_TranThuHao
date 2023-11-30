@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="737352ba-1463-4ecd-9c9f-9ab07e4ed245" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/52100412_TranThuHao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/SpringEcommerceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/BrandController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/FileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/OrderDetailController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/SecuredRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/controller/VehicleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/entity/BaseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/repository/BrandRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/repository/OrderDetailRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/repository/VehicleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/BaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/BrandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/OrderDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/service/VehicleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/utilities/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/utilities/JwtUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/utilities/PaginatedResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/java/com/university/utilities/ResponseHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/src/test/java/com/university/SpringEcommerceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/SpringEcommerceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/config/AmazonConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/config/CorsFilterConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/config/OpenApiConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/BrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/OrderDetailController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/SecuredRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/controller/VehicleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/BaseModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/Brand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/OrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/entity/VehicleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/enums/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/repository/BrandRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/repository/OrderDetailRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/repository/OrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/repository/VehicleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/security/AuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/security/AuthorizationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/security/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/BrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/FileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/OrderDetailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/service/VehicleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/utilities/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/utilities/JwtUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/utilities/PaginatedResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/com/university/utilities/ResponseHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/classes/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/spring_ecommerce-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/spring_ecommerce-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/spring_ecommerce-0.0.1-SNAPSHOT.jar.original.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/be/target/test-classes/com/university/SpringEcommerceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/erd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/apiConfig/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/common/helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/RouteGuard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/banner/Banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/button/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/layout/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/layout/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/loading/LoadingSkeleton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/loading/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/movie/MovieCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/components/movie/MovieList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/hooks/useDebounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/pages/AuthPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/pages/HomePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/pages/MovieDetailsPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/pages/MoviePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/pages/MoviePageV2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/pages/OrderPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-ecommerce-revamp/fe/tailwind.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2YtIC6PVQWmHTPyCC2gvEkqx4C1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737352ba-1463-4ecd-9c9f-9ab07e4ed245" name="Changes" comment="" />
+      <created>1701338322873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701338322873</updated>
+      <workItem from="1701338324755" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
