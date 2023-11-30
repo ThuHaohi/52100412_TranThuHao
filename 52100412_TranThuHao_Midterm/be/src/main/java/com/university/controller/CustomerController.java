@@ -43,20 +43,20 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 @RequestMapping("/api")
 @CrossOrigin(origins = "*")
 public class CustomerController {
-	
+
 	@Autowired
 	private CustomerService customerService;
-	
+
 //	@GetMapping(value =  "/login", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
 //	public ResponseEntity<?> login(
 //		@RequestPart(value = "username", required = true) String username,
 //		@RequestPart(value = "password", required = true) String password
 //	)
 //	{
-//		
+//
 //		return ResponseHandler.generateResponse(null, HttpStatus.OK, null);
 //	}
-	
+
 	@PostMapping(value =  "/signup", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
 	public ResponseEntity<?> create(
 			@RequestPart(value = "username", required = true) String username,
@@ -68,6 +68,6 @@ public class CustomerController {
 		} catch (DuplicateKeyException e) {
 			return ResponseHandler.generateResponse(null, HttpStatus.CONFLICT, e.getMessage());
 		}
-		
+
 	}
 }

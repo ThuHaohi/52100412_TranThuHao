@@ -35,7 +35,7 @@ public class FileService {
 	public String uploadFile(MultipartFile multipartFile) {
 		File file = FileUtils.convertMultiPartFileToFile(multipartFile);
 		String fileName = System.currentTimeMillis()+"_"+multipartFile.getOriginalFilename();
-		PutObjectRequest putObjectRequest = new PutObjectRequest(bucketName, "images/" + fileName, file);
+		PutObjectRequest putObjectRequest = new PutObjectRequest(bucketName, "temp/" + fileName, file);
 		putObjectRequest.setCannedAcl(CannedAccessControlList.PublicRead);
 		s3Client.putObject(putObjectRequest);
 		file.delete();
